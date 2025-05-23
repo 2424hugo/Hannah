@@ -1,0 +1,2 @@
+include:
+  - myfile.ics       # or docs/myfile.ics if the file lives in /docs
